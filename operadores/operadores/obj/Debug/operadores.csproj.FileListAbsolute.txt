@@ -1,0 +1,6 @@
+D:\ADSI-1961869\Jesus_david_calderon\operadores\operadores\bin\Debug\operadores.exe.config
+D:\ADSI-1961869\Jesus_david_calderon\operadores\operadores\bin\Debug\operadores.exe
+D:\ADSI-1961869\Jesus_david_calderon\operadores\operadores\bin\Debug\operadores.pdb
+D:\ADSI-1961869\Jesus_david_calderon\operadores\operadores\obj\Debug\operadores.csprojAssemblyReference.cache
+D:\ADSI-1961869\Jesus_david_calderon\operadores\operadores\obj\Debug\operadores.exe
+D:\ADSI-1961869\Jesus_david_calderon\operadores\operadores\obj\Debug\operadores.pdb
