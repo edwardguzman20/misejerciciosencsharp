@@ -1,0 +1,6 @@
+D:\ADSI-1961869\Jesus_david_calderon\CONTADOR\CONTADOR\bin\Debug\CONTADOR.exe.config
+D:\ADSI-1961869\Jesus_david_calderon\CONTADOR\CONTADOR\bin\Debug\CONTADOR.exe
+D:\ADSI-1961869\Jesus_david_calderon\CONTADOR\CONTADOR\bin\Debug\CONTADOR.pdb
+D:\ADSI-1961869\Jesus_david_calderon\CONTADOR\CONTADOR\obj\Debug\CONTADOR.csprojAssemblyReference.cache
+D:\ADSI-1961869\Jesus_david_calderon\CONTADOR\CONTADOR\obj\Debug\CONTADOR.exe
+D:\ADSI-1961869\Jesus_david_calderon\CONTADOR\CONTADOR\obj\Debug\CONTADOR.pdb

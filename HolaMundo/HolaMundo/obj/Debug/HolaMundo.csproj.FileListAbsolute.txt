@@ -1,0 +1,6 @@
+D:\ADSI-1961869\Jesus david calderon\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+D:\ADSI-1961869\Jesus david calderon\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+D:\ADSI-1961869\Jesus david calderon\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+D:\ADSI-1961869\Jesus david calderon\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojAssemblyReference.cache
+D:\ADSI-1961869\Jesus david calderon\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+D:\ADSI-1961869\Jesus david calderon\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb

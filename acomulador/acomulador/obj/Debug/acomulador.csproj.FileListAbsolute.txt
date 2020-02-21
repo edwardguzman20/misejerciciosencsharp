@@ -1,0 +1,12 @@
+C:\Users\Intel\source\repos\acomulador\acomulador\bin\Debug\acomulador.exe.config
+C:\Users\Intel\source\repos\acomulador\acomulador\bin\Debug\acomulador.exe
+C:\Users\Intel\source\repos\acomulador\acomulador\bin\Debug\acomulador.pdb
+C:\Users\Intel\source\repos\acomulador\acomulador\obj\Debug\acomulador.csprojAssemblyReference.cache
+C:\Users\Intel\source\repos\acomulador\acomulador\obj\Debug\acomulador.exe
+C:\Users\Intel\source\repos\acomulador\acomulador\obj\Debug\acomulador.pdb
+D:\ADSI-1961869\Jesus_david_calderon\acomulador\acomulador\bin\Debug\acomulador.exe.config
+D:\ADSI-1961869\Jesus_david_calderon\acomulador\acomulador\bin\Debug\acomulador.exe
+D:\ADSI-1961869\Jesus_david_calderon\acomulador\acomulador\bin\Debug\acomulador.pdb
+D:\ADSI-1961869\Jesus_david_calderon\acomulador\acomulador\obj\Debug\acomulador.csprojAssemblyReference.cache
+D:\ADSI-1961869\Jesus_david_calderon\acomulador\acomulador\obj\Debug\acomulador.exe
+D:\ADSI-1961869\Jesus_david_calderon\acomulador\acomulador\obj\Debug\acomulador.pdb

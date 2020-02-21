@@ -1,0 +1,6 @@
+C:\Users\Intel\source\repos\repetitiva_while\repetitiva_while\bin\Debug\repetitiva_while.exe.config
+C:\Users\Intel\source\repos\repetitiva_while\repetitiva_while\bin\Debug\repetitiva_while.exe
+C:\Users\Intel\source\repos\repetitiva_while\repetitiva_while\bin\Debug\repetitiva_while.pdb
+C:\Users\Intel\source\repos\repetitiva_while\repetitiva_while\obj\Debug\repetitiva_while.csprojAssemblyReference.cache
+C:\Users\Intel\source\repos\repetitiva_while\repetitiva_while\obj\Debug\repetitiva_while.exe
+C:\Users\Intel\source\repos\repetitiva_while\repetitiva_while\obj\Debug\repetitiva_while.pdb

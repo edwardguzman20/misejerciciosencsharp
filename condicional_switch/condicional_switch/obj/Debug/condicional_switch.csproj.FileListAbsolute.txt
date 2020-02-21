@@ -1,0 +1,5 @@
+D:\ADSI-1961869\Jesus_david_calderon\condicional_switch\condicional_switch\bin\Debug\condicional_switch.exe.config
+D:\ADSI-1961869\Jesus_david_calderon\condicional_switch\condicional_switch\bin\Debug\condicional_switch.exe
+D:\ADSI-1961869\Jesus_david_calderon\condicional_switch\condicional_switch\bin\Debug\condicional_switch.pdb
+D:\ADSI-1961869\Jesus_david_calderon\condicional_switch\condicional_switch\obj\Debug\condicional_switch.exe
+D:\ADSI-1961869\Jesus_david_calderon\condicional_switch\condicional_switch\obj\Debug\condicional_switch.pdb
