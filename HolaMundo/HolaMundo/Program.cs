@@ -11,6 +11,7 @@ namespace HolaMundo
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo");
+            Console.WriteLine("esta es una prueba de control de versiones");
             Console.ReadLine();
         }
     }
