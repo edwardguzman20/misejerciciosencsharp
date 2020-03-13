@@ -1,0 +1,12 @@
+D:\ADSI-1961869\Jesus_david_calderon\atributos_2\atributos_2\bin\Debug\atributos_2.exe.config
+D:\ADSI-1961869\Jesus_david_calderon\atributos_2\atributos_2\bin\Debug\atributos_2.exe
+D:\ADSI-1961869\Jesus_david_calderon\atributos_2\atributos_2\bin\Debug\atributos_2.pdb
+D:\ADSI-1961869\Jesus_david_calderon\atributos_2\atributos_2\obj\Debug\atributos_2.csprojAssemblyReference.cache
+D:\ADSI-1961869\Jesus_david_calderon\atributos_2\atributos_2\obj\Debug\atributos_2.exe
+D:\ADSI-1961869\Jesus_david_calderon\atributos_2\atributos_2\obj\Debug\atributos_2.pdb
+D:\ADSI-1961869\Jesus_david_calderon\eventos\atributos_2\bin\Debug\atributos_2.exe.config
+D:\ADSI-1961869\Jesus_david_calderon\eventos\atributos_2\bin\Debug\atributos_2.exe
+D:\ADSI-1961869\Jesus_david_calderon\eventos\atributos_2\bin\Debug\atributos_2.pdb
+D:\ADSI-1961869\Jesus_david_calderon\eventos\atributos_2\obj\Debug\atributos_2.csprojAssemblyReference.cache
+D:\ADSI-1961869\Jesus_david_calderon\eventos\atributos_2\obj\Debug\atributos_2.exe
+D:\ADSI-1961869\Jesus_david_calderon\eventos\atributos_2\obj\Debug\atributos_2.pdb

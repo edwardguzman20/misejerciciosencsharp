@@ -1,0 +1,8 @@
+F:\ADSI-1961869\Jesus_david_calderon\insert_bd\insert_bd\bin\Debug\insert_bd.exe.config
+F:\ADSI-1961869\Jesus_david_calderon\insert_bd\insert_bd\bin\Debug\insert_bd.exe
+F:\ADSI-1961869\Jesus_david_calderon\insert_bd\insert_bd\bin\Debug\insert_bd.pdb
+F:\ADSI-1961869\Jesus_david_calderon\insert_bd\insert_bd\bin\Debug\MySql.Data.dll
+F:\ADSI-1961869\Jesus_david_calderon\insert_bd\insert_bd\obj\Debug\insert_bd.csprojAssemblyReference.cache
+F:\ADSI-1961869\Jesus_david_calderon\insert_bd\insert_bd\obj\Debug\insert_bd.csproj.CopyComplete
+F:\ADSI-1961869\Jesus_david_calderon\insert_bd\insert_bd\obj\Debug\insert_bd.exe
+F:\ADSI-1961869\Jesus_david_calderon\insert_bd\insert_bd\obj\Debug\insert_bd.pdb
